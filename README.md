@@ -1,18 +1,16 @@
-Backbone Developer Tools
+Sidecar Developer Tools
 ========================
+
+Sidecar Developer Tools (SDT) is based on [Backbone Developer Tools][4] project.
 
 BDT is an extension for Chrome Developer Tools which helps in debugging Backbone-based apps.
 It's been developed by [Tomasz Szczęśniak-Szlagowski][1] and released under the [MIT License][2].
 It makes use of [Backbone.Debug][3] by Andrew Terris.
 
-Pull requests are welcome!
+If you want to contribute to this project, please read the [Contributing Guidelines](CONTRIBUTING.md).
 
 Installing
 ----------
-
-### Web Store
-
-BDT is yet to be released, so you need to install it manually.
 
 ### Manually
 
@@ -46,3 +44,4 @@ Note that unless you alter the extension itself, you'll need to expose the logge
 [1]: http://github.com/spect88
 [2]: http://www.opensource.org/licenses/MIT
 [3]: http://github.com/aterris/backbone.debug
+[4]: http://github.com/spect88/backbone-devtools
